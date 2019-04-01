@@ -1,0 +1,14 @@
+Nick2
+1
+Nick1
+1
+1
+7
+        
+        
+     O  
+  OOOX  
+   OX   
+   XO   
+    XO  
+        
